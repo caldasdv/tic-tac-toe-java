@@ -18,23 +18,23 @@ Projeto simples de um jogo da velha usando Java.
 1. Clone esse repositório para sua maquina:
   
 ```
-git clone https://github.com/seu-usuario/jogo-da-velha-java.git
+git clone https://github.com/caldasdv/tic-tac-toe-java.git
 ```
 
 2. Vá ate o diretório do projeto:
 
 ```
-cd jogo-da-velha-java
+cd tic-tac-toe-java
 ```
 
 3. Compile o código fonte:
 
 ```
-java Main.java
+java JogoDaVelha.java
 ```
 
 4. Execute o programa: 
 
 ```
-java Main
+java JogoDaVelha
 ```
